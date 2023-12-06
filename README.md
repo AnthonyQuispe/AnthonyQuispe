@@ -12,13 +12,11 @@
 <br>
 <p>You can find me on:</p>
 </pre>
-<div align="left">
 
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
 [![](https://img.shields.io/badge/Youtube-FF0000)](https://www.youtube.com/channel/UCGiQcLBUgTrmortgLTT7cIA)
 [![](https://img.shields.io/badge/Portfolio-FEAE2E)](https://anthonyquispe.com/)
 
-</div>
 <br><br>
 
 <div align="center" >
