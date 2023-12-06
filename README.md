@@ -8,13 +8,13 @@
     💻 Javascript • Python • Html • Css • Sass • Typescript • 
     📖 Node • Express • Cloud Functions • FireStore • MySQL •
     🎮 Music • Games • Anime • Code •
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
+
 </pre>
 <br><br><br>
 <div align=center >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
 <div>
-
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
-
 </div>
