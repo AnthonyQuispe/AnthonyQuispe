@@ -4,13 +4,15 @@
 <br><br>
 - 📫 How to reach me **Anthony.s.Quispe@gmail.com**
 <pre>
-<p align="left"> 💼 BrainStation • Back-End Dev • Front-End Dev</p>
-<p align="left">💻 Javascript • Python • Html • Css • Sass • Typescript • </p>
-<p align="left">📖 Node • Express • Cloud Functions • FireStore • MySQL •</p>
-<p align="left"> 🎮 Music • Games • Anime • Code •</p>
+<p align="center">💼 BrainStation • Back-End Dev • Front-End Dev</p>
+<p align="center">💻 Javascript • Python • Html • Css • Sass • Typescript • </p>
+<p align="center">📖 Node • Express • Cloud Functions • FireStore • MySQL •</p>
+<p align="center">🎮 Music • Games • Anime • Code •</p>
 <br>
 <p>You can find me on:</p>
+
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
+
 </pre>
 <br><br><br>
 <div align="center" >
