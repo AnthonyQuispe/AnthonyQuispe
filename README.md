@@ -1,7 +1,7 @@
 ### Hi 👋🏼, I'm Anthony Quispe
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=13F6F7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+nice+to+meet+you;My+name+is+Anthony%2C+I'm+a+full+stack+Engineer+who+loves+to+create+things+that+simplify+my+life+" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&center=true&vCenter=true&repeat=false&random=false&width=1300&height=150&lines=Hi+Nice+to+meet+you+%F0%9F%AB%B1%F0%9F%8F%BC%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB+;My+name+is+Anthony+;I'm+a+Full+Stack+Engineer+who+loves+creating+things+that+will+make+my+life+easier" alt="Typing SVG" /></a>
 
 <!--
 **AnthonyQuispe/AnthonyQuispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
