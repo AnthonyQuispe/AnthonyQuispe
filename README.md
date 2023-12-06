@@ -4,18 +4,19 @@
 <br><br>
 
 <pre>
-<p align="center">💼 BrainStation • Back-End Dev • Front-End Dev</p>
-<p align="center">💻 Javascript • Python • Html • Css • Sass • Typescript • </p>
-<p align="center">📖 Node • Express • Cloud Functions • FireStore • MySQL •</p>
-<p align="center">🎮 Music • Games • Anime • Code •</p>
-<p> 📫 How to reach me **Anthony.s.Quispe@gmail.com </p>
+💼 BrainStation • Back-End Dev • Front-End Dev
+💻 Javascript • Python • Html • Css • Sass • Typescript •
+📖 Node • Express • Cloud Functions • FireStore • MySQL •
+🎮 Music • Games • Anime • Code •
+📫 How to reach me **Anthony.s.Quispe@gmail.com
 <br>
-<p>You can find me on:</p>
-</pre>
+You can find me on:
+
 
 [![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
 [![](https://img.shields.io/badge/Youtube-FF0000)](https://www.youtube.com/channel/UCGiQcLBUgTrmortgLTT7cIA)
 [![](https://img.shields.io/badge/Portfolio-FEAE2E)](https://anthonyquispe.com/)
+</pre>
 
 <br><br>
 
