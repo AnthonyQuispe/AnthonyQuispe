@@ -11,11 +11,6 @@
 📫 How to reach me **Anthony.s.Quispe@gmail.com
 <br>
 You can find me on:
-
-
-[![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
-[![](https://img.shields.io/badge/Youtube-FF0000)](https://www.youtube.com/channel/UCGiQcLBUgTrmortgLTT7cIA)
-[![](https://img.shields.io/badge/Portfolio-FEAE2E)](https://anthonyquispe.com/)
 </pre>
 
 <br><br>
@@ -23,5 +18,11 @@ You can find me on:
 <div align="center" >
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
-<div>
+</div>
+<br>
+
+[![](https://img.shields.io/badge/Linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
+[![](https://img.shields.io/badge/Youtube-FF0000)](https://www.youtube.com/channel/UCGiQcLBUgTrmortgLTT7cIA)
+[![](https://img.shields.io/badge/Portfolio-FEAE2E)](https://anthonyquispe.com/)
+
 </div>
