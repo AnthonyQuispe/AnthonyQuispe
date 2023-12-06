@@ -10,9 +10,10 @@
     🎮 Music • Games • Anime • Code •
 </pre>
 <br><br><br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnthonyQuispe&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="Anthony Quispe" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuispe&show_icons=true&locale=en&theme=synthwave&layout=compact" alt="Anthony Quispe" /></p>
+<div align=center >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnthonyQuispe&show_icons=true&locale=en&theme=dracula&layout=compact" alt="Anthony Quispe" /></p>
+<div>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
 
