@@ -8,9 +8,9 @@
     💻 Javascript • Python • Html • Css • Sass • Typescript • 
     📖 Node • Express • Cloud Functions • FireStore • MySQL •
     🎮 Music • Games • Anime • Code •
-
+<br>
+<p>You can Find me on:<p>
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
-
 </pre>
 <br><br><br>
 <div align=center >
