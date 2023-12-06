@@ -11,11 +11,11 @@
 <p> 📫 How to reach me **Anthony.s.Quispe@gmail.com </p>
 <br>
 <p>You can find me on:</p>
+</pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/anthonyqs)
 [![](https://img.shields.io/badge/youtube-FF0000)](https://www.youtube.com/channel/UCGiQcLBUgTrmortgLTT7cIA)
 [![](https://img.shields.io/badge/portfolio-0a66c2)](https://anthonyquispe.com/)
-</pre>
 
 <br><br>
 
